@@ -18,6 +18,7 @@ class Student
         name TEXT,
         grade INTEGER
         )
+        SQL
   
   
   
