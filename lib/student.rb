@@ -27,7 +27,7 @@ class Student
   
   def self.save
     sql = <<-SQL
-    INSERT INTO students (name,)
+    INSERT INTO students (name,grade)
   
   
   
